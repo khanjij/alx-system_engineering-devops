@@ -1,1 +1,1 @@
-noemptyfile
+This is non empty file redirection
